@@ -14,8 +14,12 @@
 3. [Usage](#usage)
 	- [Running the Notebooks](#running-the-notebooks)
 	- [Roadmap](#roadmap)
-	- [License](#license)
-	- [Contact](#contact)
+4. [Results](#results)
+   	- [Parameters](#parameters)
+   	- [Measurement](#measurement)
+   	- [Maps](#maps)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## About the Project
 
@@ -47,7 +51,9 @@ The project leverages data from the terrain-tiles dataset available on AWS. This
 ### Prerequisites
 
 ![aws](./Images/aws.png)
-![jupyter](./Images/jupyter.png)
+![jupyter](./Images/Jupyter.png)
+![python](./Images/python.png)
+![pyspark](./Images/pyspark.png)
 
 - AWS Account
 - AWS CLI
@@ -86,6 +92,30 @@ git clone https://github.com/MaksymilianTerebus/AWS_Projekt.git
 -   Coloring and presenting North and South America
 
 See the [open issues](https://github.com/MaksymilianTerebus/AWS_Projekt/issues) for a list of proposed features (and known issues).
+
+## Results
+
+### Parameters
+Geographical coordinates:
+- Point 1 - (72, -168)
+- Point 2 - (-54, -25)
+
+Zoom:
+- 3 - number of tiles - 20
+- 4 - number of tiles - 56
+- 5 - number of tiles - 208
+
+### Measurements
+
+Avarage time measurements:
+- zoom 3 - 3.1757 seconds
+- zoom 4 - 7.3592 seconds
+- zoom 5 - 25.9545 seconds
+
+### Maps
+
+![map2](./Images/map2.png)
+![map](./Images/map.png)
 
 ## License
 
