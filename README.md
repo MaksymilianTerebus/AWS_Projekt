@@ -114,8 +114,21 @@ Avarage time measurements:
 
 ### Maps
 
+Map of America taken from the dataset:
+
 ![map2](./Images/map2.png)
+
+Map after processing with grouped regions:
+
 ![map](./Images/map.png)
+
+Groups:
+- darkblue -> 0% - 5% of values
+- green -> 5% - 35% of values
+- yellow -> 35% - 60% of values
+- orange -> 60% - 80% of values
+- red -> 80% - 95% of values
+- purple -> 95% - 100% of values
 
 ## License
 
@@ -124,5 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 
 Patryk Ożóg - [Email](s184601@student.pg.edu.pl)
+
 Maksymilan Terebus - [Email](s181595@student.pg.edu.pl)
+
 Jan Weis - [Email](s184412@student.pg.edu.pl)
