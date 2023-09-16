@@ -46,9 +46,11 @@ The project leverages data from the terrain-tiles dataset available on AWS. This
 
 ### Prerequisites
 
+![aws](./Images/aws.png)
+![jupyter](./Images/jupyter.png)
+
 - AWS Account
 - AWS CLI
-![aws](./Images/aws.png)
 - Python 3.x
 - Jupyter Notebook
 - Spark & PySpark
