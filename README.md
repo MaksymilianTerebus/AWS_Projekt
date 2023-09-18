@@ -1,4 +1,3 @@
-
 # AWS Project
 
 ## Table of Contents
@@ -18,7 +17,6 @@
    	- [Parameters](#parameters)
    	- [Measurement](#measurement)
    	- [Maps](#maps)
-5. [License](#license)
 6. [Contact](#contact)
 
 ## About the Project
@@ -57,7 +55,7 @@ The project leverages data from the terrain-tiles dataset available on AWS. This
 
 - AWS Account
 - AWS CLI
-- Python 3.x
+- Python 3
 - Jupyter Notebook
 - Spark & PySpark
 
@@ -129,10 +127,6 @@ Groups:
 - orange -> 60% - 80% of values
 - red -> 80% - 95% of values
 - purple -> 95% - 100% of values
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
